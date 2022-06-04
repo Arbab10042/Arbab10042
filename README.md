@@ -1,6 +1,6 @@
 - 👋 Hello,
 - 🌱 I’m currently working on some FYP/Semester Projects.
-- 👯 I’m interested in AI/ML.
+- 👯 I’m interested in Web Development.
 - 🌱 I’m currently looking into new technologies (MERN Stack) to increase my skillset.
 - 💬 Feel free to ask me about my work.
 - 📫 How to reach me <p> 
